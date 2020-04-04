@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:background="#719192"
+    android:id="@+id/recyclerview">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+android:background="#719192"
+            android:layout_width="match_parent"
+            android:src="@drawable/disc1"
+            android:layout_height="200dp">
+        </ImageView>
+
+</androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:src="@drawable/disc2"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="200dp">
+                </ImageView>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/image4"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/disc1"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp">
+                </ImageView>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "693519278030",
+    "firebase_url": "https://shoppersbuddy-ca18a.firebaseio.com",
+    "project_id": "shoppersbuddy-ca18a",
+    "storage_bucket": "shoppersbuddy-ca18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693519278030:android:04f2aeced80c83cadcd59f",
+        "android_client_info": {
+          "package_name": "com.example.shoppers_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693519278030-9ot64jfdnsjqmuagjshcdgqvujl6jjsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppers_buddy",
+            "certificate_hash": "c34eff50999f64bf293815f94e13dfe620d5f370"
+          }
+        },
+        {
+          "client_id": "693519278030-4u5kpmfttq1arimqb1q3n5v5gc9dld53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhvUdeRkF7CJmFaGVuJuupXwsukXC5jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693519278030-4u5kpmfttq1arimqb1q3n5v5gc9dld53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693519278030:android:4df3ccd6ce2226cadcd59f",
+        "android_client_info": {
+          "package_name": "com.example.shoppersbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693519278030-fsu3d4j99gg0tec9c6bc2bm4pj9v49td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppersbuddy",
+            "certificate_hash": "d994551d0d1c0b7f5ea23407b8c53e190d64bcd1"
+          }
+        },
+        {
+          "client_id": "693519278030-s4mge3delre4grpf5ep74tb2d1cp3i7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppersbuddy",
+            "certificate_hash": "e3ee8683d82e547f7be3b132b495313d8c4ffb1d"
+          }
+        },
+        {
+          "client_id": "693519278030-4u5kpmfttq1arimqb1q3n5v5gc9dld53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhvUdeRkF7CJmFaGVuJuupXwsukXC5jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693519278030-4u5kpmfttq1arimqb1q3n5v5gc9dld53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppersBuddy</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Offers</string>
+    <string name="title_notifications">Parking</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_spin">Category</string>
+</resources>
